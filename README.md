@@ -9,7 +9,7 @@
   - Optimal control
   - Real-time C++
   - Robotics
-- 📫 [gerd2s](gerd2s.github@gmail.com?subject=[GitHub])
+- 📫 gerd2s.github@gmail.com
 
 <!---
 gerd2s/gerd2s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
