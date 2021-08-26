@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning
   - More modern C++
 - 💞️ I’m looking to collaborate on
+  - Optimal control
   - Real-time C++
   - Robotics
 - 📫 How to reach me ...
