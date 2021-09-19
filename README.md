@@ -7,8 +7,7 @@
   - More modern C++
 - 💞️ I’m looking to collaborate on
   - Optimal control
-  - Real-time C++
-  - Robotics
+  - Numerical codes
 - 📫 gerd2s.github@gmail.com
 
 <!---
