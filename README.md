@@ -5,9 +5,11 @@
   - Discrete Math
 - 🌱 I’m currently learning
   - More modern C++
+  - Julia
 - 💞️ I’m looking to collaborate on
   - Optimal control
   - Numerical codes
+  - Anything related to graphs
 - 📫 gerd2s.github@gmail.com
 
 <!---
