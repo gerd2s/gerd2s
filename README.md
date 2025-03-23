@@ -4,8 +4,8 @@
   - Robotics
   - Discrete Math
 - 🌱 I’m currently learning
-  - More modern C++
-  - Julia
+  - More C++
+  - Rust
 - 💞️ I’m looking to collaborate on
   - Optimal control
   - Numerical codes
